@@ -1,0 +1,30 @@
+/etc/php/8.0/cli/php.ini
+
+composer create-project laravel/laravel --prefer-dist test_laravel
+
+Your requirements could not be resolved to an installable set of packages.
+
+Failed to download laravel/laravel from dist: The zip extension and unzip/7z                                                                                                              commands are both missing, skipping.
+Your command-line PHP is using multiple ini files. Run `php --ini` to show them.
+    Now trying to download from source
+
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+
+
+ギットハブのアカウントを作る。←個人用のグーグルアドレス使用。
+GUI操作するためにソースツリーを入れる。
+リポジトリを作る。
+
+VBoxにソースコードををローカルフォルダに共有できる機能がある。
+ローカルと仮想サーバのフォルダを直結
+サーバの操作をローカルからできるようになる。
+ローカル（エクスプローラー上）でソースの管理をする。
+これを調査後、ソースツリーでソース管理する。
+
+
+ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDSJhllQqqBSOzT7C8Dt14MxA/QZktfLy8Rs8EiSaJa0LWxgyl1NyhUuckENsjGF1psMD4KwspWZ7zHYhEtkq2niFlaKbZQ/08mxkytGSVsFpkyKHnpqDiAxFYEz+tnjFAsSRVP99TPdazhrdooyxVA8gVJ3o+ULqeB8PE8Rv9C9dy2QfuXcBQ5TfNkC6Hw3iNXR264JRkLOmcixJZhtJQTsmT2yHWTAHdgn2qVEJw3ey6N5qxUJ+KsnXKNzb7jBWBB+fbs8+XKuStjOSvfYkWIUE9bVv3L+lA9N+CHOUE3lvEPeD6pp4Ma0qYU/kiH3BncloSkSeYN+YdpZkNpKQen rsa-key-20220702
+
+
+https://github.com/koyaneko/-.git
+
+test!
